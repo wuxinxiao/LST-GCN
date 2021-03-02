@@ -6,21 +6,21 @@ This is the implementation of "Anticipating Future Relations via Graph Growing f
 
 ### Example:
 
-​	Sth-v1
-​		1.phase1：
-​		function：zns_sthv1_only_reasoning.py
-​		model：zns_sthv1_only_reasoning_model.py
-​		2.phase2：
-​		function：zns_sthv1_phase2.py
-​		model：zns_sthv1_phase2_model.py
+​	Sth-v1  
+​		1.phase1：  
+​		function：zns_sthv1_only_reasoning.py  
+​		model：zns_sthv1_only_reasoning_model.py  
+​		2.phase2：  
+​		function：zns_sthv1_phase2.py  
+​		model：zns_sthv1_phase2_model.py  
 
-​	UCF-101
-​		1.phase1：
-​		function：zns_ucf101_only_reasoning.py
-​		model：zns_ucf101_only_reasoning_model.py
-​		2.phase2：
-​		function：zns_ucf101_phase2.py
-​		model：zns_ucf101_phase2_model.py
+​	UCF-101  
+​		1.phase1：  
+​		function：zns_ucf101_only_reasoning.py  
+​		model：zns_ucf101_only_reasoning_model.py  
+​		2.phase2：  
+​		function：zns_ucf101_phase2.py  
+​		model：zns_ucf101_phase2_model.py  
 
 ### Citation
 
